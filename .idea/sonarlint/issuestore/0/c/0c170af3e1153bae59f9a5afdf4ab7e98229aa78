@@ -1,0 +1,30 @@
+
+p	java:S116"TRename this field "TriaglesM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“õ•Ë8Ò¤œ¯2
+@
+java:S1948"#Make "s" transient or serializable.(ú¡éº8×¤œ¯2
+C
+java:S1948"&Make "allM" transient or serializable.(¼öÚı8×¤œ¯2
+H
+java:S1948"+Make "TriaglesM" transient or serializable.(“õ•Ë8×¤œ¯2
+B
+java:S1948"%Make "sea" transient or serializable.(îíâ8×¤œ¯2
+M
+java:S1948"+Make "rightPalm" transient or serializable.(Ğêıãüÿÿÿÿ8×¤œ¯2
+L
+java:S1948"*Make "leftPalm" transient or serializable.(Íï…¨ùÿÿÿÿ8×¤œ¯2
+F
+java:S1948")Make "hammock" transient or serializable.(üİÒ†8×¤œ¯2
+D
+java:S1948"'Make "beach" transient or serializable.(çû½8×¤œ¯2
+W
+java:S1161":Add the "@Override" annotation above this method signature(¶øÂÁ8×¤œ¯2
+]	java:S125,"<This block of commented-out lines of code should be removed.(ÈÕèıÿÿÿÿ8í§§œ¯2
+]	java:S1255"<This block of commented-out lines of code should be removed.(§§ÃÂşÿÿÿÿ8Û¤œ¯2
+X	java:S125C"<This block of commented-out lines of code should be removed.(ş¾¥ê8Û¤œ¯2
+L	java:S106T"+Replace this use of System.out by a logger.(ÃªÀ¼ÿÿÿÿÿ8à¤œ¯2
+Y	java:S125‰"<This block of commented-out lines of code should be removed.( „š8à¤œ¯2
+X	java:S125"<This block of commented-out lines of code should be removed.(¼ü´@8à¤œ¯2
+Y	java:S125—"<This block of commented-out lines of code should be removed.(ÆÔ¬8à¤œ¯2
+Y	java:S125š"<This block of commented-out lines of code should be removed.(ğ•ˆ¸8à¤œ¯2
+J
+java:S1068"-Remove this unused "TriaglesM" private field.(“õ•Ë8å¤œ¯2
